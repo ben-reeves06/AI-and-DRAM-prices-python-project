@@ -1,7 +1,7 @@
 # AI-and-DRAM-prices-python-project
 A beginners python project investigating the impact of AI demand on DRAM prices
 
-This project uses an OLS regression for two regression equations to investigate how AI demand (measured both directly and indirectly) can impact DRAM prices. The overall findings of this report is that the results are quite nuanced. Depending how you view what constitutes as 'AI demand', it can either have a signifcant upwards effect, downwards effect or null effect.
+This project uses an OLS regression for two regression equations to investigate how AI demand (measured both directly and indirectly) can impact DRAM prices. The overall findings of this report is that the results are quite nuanced. Depending how you view what constitutes as 'AI demand', it can either have a signifcant upwards effect, downwards effect or null effect. Neither regression had statistically signinficant results.
 
 Regression 1: DRAM Price = b0 + b1(PC Demand) + b2(AI demand) + err
 Regression 2: DRAM Price = b0 + b1(PC Demand) + b2(HBM Share) + b3(DRAM per PC) + err
