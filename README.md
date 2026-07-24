@@ -17,3 +17,13 @@ Data: DRAM Prices: https://dam.stanford.edu/memory-prices.html
 PC Shipments: https://www.statista.com/statistics/534779/worldwide-pc-shipments-per-quarter/ 
 Data center segment revenue: https://www.statista.com/statistics/1425087/data-center-segment-revenue-nvidia-amd-intel/
 HBM shares and DRAM per PC sourced from Gartner Semiconductor Tracker.
+
+What files have been uploaded?
+Personal.ipynb - My Python notebook with all the code required for this project.
+Quarters.xlsx - Excel spreadsheet with quarterly data for Data Center revenue, DRAM prices and global PC shipments.
+Shares.xlsx - Excel spreadsheet with annual data for HBM Share, DRAM per PC and DRAM prices
+AI_GCI.xlsx - Excel spreadsheet with annual data for investment in AI. NOTE: This goes unused in the final project.
+PCShipment.xlsx - Excel spreadhseet with annual data for PC shipments.
+Project.pdf - Final PDF containing the full project write up.
+
+Final note: I know this project isn't the best, but I had fun doing it and I hope I can improve my skills in the future. Thank you for your interest in this little summer side project i've done!
